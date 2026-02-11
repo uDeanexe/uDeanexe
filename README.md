@@ -1,88 +1,81 @@
-# Kamaludin
-
-Backend Developer focused on building scalable and maintainable applications using .NET and Laravel.  
-I specialize in RESTful API development, database design, and structured backend architecture.
-
----
-
-## About Me
-
-I am a backend-focused developer with experience in developing web applications using ASP.NET Core and Laravel.  
-My work includes building RESTful APIs, designing relational databases, implementing business logic, and optimizing queries for better system performance.
-
-I value clean code, structured architecture, and long-term maintainability in every system I build.
+<!-- Typing Animation -->
+<h1 align="center">Hi, I'm Kamaludin</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Developer;ASP.NET+Core+%7C+Laravel;RESTful+API+%7C+SQL+Server+%7C+MySQL;Building+Scalable+Backend+Systems" />
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-### Backend
-- ASP.NET Core
-- .NET
-- Laravel
-- RESTful API
-- MVC Architecture
+Backend Developer focused on building scalable and maintainable applications using **.NET** and **Laravel**.
 
-### Database
-- Microsoft SQL Server
-- MySQL
-- Entity Framework Core
-- Eloquent ORM
-
-### Tools
-- Git
-- Postman
-- Visual Studio
-- Visual Studio Code
-
----
-
-## What I Focus On
-
-- Designing relational database structures
-- Building structured and maintainable APIs
+I specialize in:
+- RESTful API development
+- Relational database design
 - Business logic implementation
 - Backend performance optimization
-- Clean and readable code practices
+- Clean and structured architecture
+
+I aim to build systems that are stable, efficient, and ready for long-term growth.
 
 ---
 
-## Selected Projects
+## 🛠 Tech Stack
 
-### Inventory Management API
+### Backend
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+---
+
+## 📌 Selected Projects
+
+### 🔹 Inventory Management API
 RESTful API built with ASP.NET Core and SQL Server.
 
-Features:
-- Product and category management
+- Structured service-layer architecture
 - Role-based authorization
-- Structured service layer architecture
+- Database relational design
 - Swagger API documentation
 
-### Laravel Blog API
-Backend API built using Laravel and MySQL.
+### 🔹 Laravel Blog API
+Backend API built with Laravel and MySQL.
 
-Features:
 - Authentication system
-- CRUD operations
-- Middleware implementation
-- Structured MVC architecture
+- Middleware-based access control
+- MVC architecture
+- CRUD implementation
 
 ---
 
-## Currently Learning
+## 📊 GitHub Stats
 
-- Advanced API security
-- Performance optimization techniques
-- Clean architecture principles
-- System scalability fundamentals
-
----
-
-## Contact
-
-Email: kamaludinpasaribu8@gmail.com  
-GitHub: https://github.com/uDeanexe  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uDeanexe&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uDeanexe&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
 
 ---
 
-> Backend Developer (.NET & Laravel)
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uDeanexe&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact
+
+- 📧 Email: kamaludinpasaribu8@gmail.com
+- 💼 Open for Backend Developer opportunities
