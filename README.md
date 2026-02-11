@@ -58,22 +58,11 @@ Backend API built with Laravel and MySQL.
 
 ---
 
-## 📊 GitHub Stats
+ ## My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uDeanexe&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uDeanexe&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uDeanexe&theme=github_dark" />
 </p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uDeanexe&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</p>
-
----
 
 ## 📬 Contact
 
