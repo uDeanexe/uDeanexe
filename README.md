@@ -51,26 +51,6 @@ I aim to build systems that are stable, efficient, and ready for long-term growt
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 
-## 📌 Selected Projects
-
-### 🔹 Inventory Management API
-RESTful API built with ASP.NET Core and SQL Server.
-
-- Structured service-layer architecture
-- Role-based authorization
-- Database relational design
-- Swagger API documentation
-
-### 🔹 Laravel Blog API
-Backend API built with Laravel and MySQL.
-
-- Authentication system
-- Middleware-based access control
-- MVC architecture
-- CRUD implementation
-
----
-
  ## My Stats
 
 <p align="center">
