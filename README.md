@@ -8,18 +8,16 @@
 
 ## 🚀 About Me
 
-Backend Developer focused on building scalable and maintainable applications using **.NET** and **Laravel**.
+Results-driven **Backend Developer** with expertise in building scalable, high-performance server-side applications using **ASP.NET Core** and **Laravel**. I specialize in designing robust **RESTful APIs**, optimizing relational databases, and implementing clean architecture patterns.
 
-I specialize in:
-- RESTful API development
-- Relational database design
-- Business logic implementation
-- Backend performance optimization
-- Clean and structured architecture
-- Additionally, I use Python for automation and internal tooling development.
--I also have foundational knowledge in frontend technologies such as HTML, CSS, JavaScript, and TypeScript.
+**Core Competencies:**
+- **Backend Development:** ASP.NET Core, Laravel, PHP, C#
+- **Database Management:** SQL Server, MySQL, Database Normalization, Query Optimization
+- **Architecture:** MVC, Service-Layer Pattern, Clean Architecture
+- **Tools & Automation:** Postman, Python for automation, CI/CD basics
 
-I am continuously learning and improving my skills in backend development and related technologies. Currently exploring frontend fundamentals to better understand full-stack workflows.
+**Professional Summary:**
+I focus on delivering stable and efficient backend systems that support long-term business growth. I have a strong foundation in the full software development life cycle (SDLC) and am currently expanding my expertise into frontend technologies (TypeScript/React) to facilitate seamless full-stack integration.
 
 I aim to build systems that are stable, efficient, and ready for long-term growth.
 
